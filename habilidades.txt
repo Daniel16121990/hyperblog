@@ -1,5 +1,5 @@
 Estas son las habilidades de Daniel Abraham Perez
 HTML
 VISUAL BASIC.NET 2012
-ARDUINO
+INTERNET DE LAS COSAS
 ANDROID
