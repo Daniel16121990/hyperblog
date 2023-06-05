@@ -1,4 +1,5 @@
-Estas son las habilidades de Daniel Perez
+Estas son las habilidades de Daniel Abraham Perez
 HTML
-VISUAL BASIC.NET
+VISUAL BASIC.NET 2012
 ARDUINO
+Android
